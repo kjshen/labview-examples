@@ -1,0 +1,5 @@
+# LabVIEW creates a .aliases file each time you open a project. Deleting the .aliases file does not affect the project.
+*.aliases
+
+# LabVIEW creates a .lvlps file each time you save a project. Only contains settings specific to the local machine You can remove or delete .lvlps files without affecting a project
+*.lvlps
